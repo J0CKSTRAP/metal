@@ -14,3 +14,6 @@ The Service and its original content, features, and functionality are and will r
 We may terminate or suspend your access to the Service (HWID banning and HWID Logging), without prior notice or liability, for any reason whatsoever, including without limitation if you breach these Terms.
 4. Change of TOS / TOU
 We reserve the right to modify or replace these Terms at any time. If a revision is material, we will provide at least [30] days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+
+# Metal Softworks © 2024
