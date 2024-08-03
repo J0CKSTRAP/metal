@@ -7,7 +7,7 @@ You agree not to:
 1. Use the Service (Metal) for any illegal or unauthorized purpose.
 2. Crack, Modify, adapt, hack, or reverse engineer the Service (Metal).
 3. Attempt to gain unauthorized access to other scripters computers or devices with our Service (Metal) IE. RATTING, Cookie Logging, or to spread malicous files with our IDE.
-4. sell our Service (Metal) or make ANY money of the IP of our Service (Metal)
+4. Impersonate, sell, or distribute copies of our Service (Metal) with malicous intent or with malware. IE: RATs, Cookie Loggers, Token Loggers, etc
 2. Intellectual Property
 The Service and its original content, features, and functionality are and will remain the exclusive property of Metal Softworks. The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries.
 3. Termination
