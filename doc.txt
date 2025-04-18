@@ -1,0 +1,125 @@
+
+label: lz4decompress
+type: Function
+description: Decompresses data using LZ4. Takes compressed data and expected size.
+insert: lz4decompress(data, size)
+
+label: messagebox
+type: Function
+description: Displays a Windows message box. Yields and returns result.
+insert: messagebox(text, caption, flags)
+
+label: queue_on_teleport
+type: Function
+description: Queues Lua code to run after player teleports.
+insert: queue_on_teleport(code)
+
+label: queueonteleport
+type: Function
+description: Alias for queue_on_teleport. Queues Lua code to run after teleport.
+insert: queueonteleport(code)
+
+label: request
+type: Function
+description: Sends an HTTP request with specified options. Returns response.
+insert: request({Url = '', Method = '', Headers = {}, Body = ''})
+
+label: fireclickdetector
+type: Function
+description: Fires a click/hover event on a ClickDetector. Optional distance/event.
+insert: fireclickdetector(object, distance, event)
+
+label: getcallbackvalue
+type: Function
+description: Returns the function assigned to a callback property of an instance.
+insert: getcallbackvalue(object, property)
+
+label: getconnections
+type: Function
+description: Returns an array of connections from a given signal.
+insert: getconnections(signal)
+
+label: getcustomasset
+type: Function
+description: Returns a rbxasset:// ID from a local file path (may cache).
+insert: getcustomasset(path, noCache)
+
+label: readfile
+type: Function
+description: Returns the contents of the file located at the specified path.
+insert: readfile(path)
+
+label: writefile
+type: Function
+description: Writes data to a file at the specified path.
+insert: writefile(path, data)
+
+label: appendfile
+type: Function
+description: Appends data to a file at the specified path.
+insert: appendfile(path, data)
+
+label: delfile
+type: Function
+description: Deletes the file at the specified path.
+insert: delfile(path)
+
+label: isfile
+type: Function
+description: Checks if the specified path is a file.
+insert: isfile(path)
+
+label: isfolder
+type: Function
+description: Checks if the specified path is a folder.
+insert: isfolder(path)
+
+label: listfiles
+type: Function
+description: Returns a list of files and folders in the specified directory.
+insert: listfiles(path)
+
+label: makefolder
+type: Function
+description: Creates a new folder at the specified path.
+insert: makefolder(path)
+
+label: delfolder
+type: Function
+description: Deletes the folder at the specified path.
+insert: delfolder(path)
+
+label: getgenv
+type: Function
+description: Returns the custom global environment of the executor.
+insert: getgenv()
+
+label: getrenv
+type: Function
+description: Returns the global environment of the game client.
+insert: getrenv()
+
+label: getsenv
+type: Function
+description: Returns the global environment of the specified script.
+insert: getsenv(script)
+
+label: getloadedmodules
+type: Function
+description: Returns a list of ModuleScripts that have been loaded.
+insert: getloadedmodules(excludeCore)
+
+label: getrunningscripts
+type: Function
+description: Returns a list of scripts that are currently running.
+insert: getrunningscripts()
+
+label: getscripts
+type: Function
+description: Returns a list of every script in the game.
+insert: getscripts()
+
+label: getscriptbytecode
+type: Function
+description: Returns the raw Luau bytecode of the specified script.
+insert: getscriptbytecode(script)
